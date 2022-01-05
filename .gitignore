@@ -4,6 +4,8 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+hw1/datasets
+hw1/submission_logs
 # Other files and folders
 .settings/
 
